@@ -1,2 +1,4 @@
 # BWR-ColorMap-LABVIEW-VI
-BWR or Seismic colormap array created with LABVIEW. An example is included.
+Personally, I like BWR (Black White Red) or seismic colormap while working with intensity graphs. Therefore, I created BWR_CMAP.vi Labview code for my applications.  
+
+An example is included.
